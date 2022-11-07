@@ -1,0 +1,10 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#013619",
+    "titleBar.activeBackground": "#014B23",
+    "titleBar.activeForeground": "#ECFFF5"
+  },
+  "cSpell.words": [
+    "dayjs"
+  ]
+}
